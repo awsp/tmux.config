@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp .tmux.config ~/.tmux.config
+cp .tmux.conf ~/.tmux.conf
