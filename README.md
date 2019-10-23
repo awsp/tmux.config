@@ -31,3 +31,11 @@ q       Show Pane number
 d       Detach session
 ```
 
+### Tmux Basic Command
+```
+tmux		Start new session
+tmux ls		List all sessions 
+tmux attach-session -t [n] Re-attach session n
+```
+
+
