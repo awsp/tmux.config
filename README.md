@@ -24,6 +24,7 @@ x       Close Pane
 hjkl    Navigate to Pane (Up, Down, Left, Right)
 HJKL    Resize Pane (Up, Down, Left, Right)
 q       Show Pane number
+[	Up, Down key for navigation and scolling, ESC to escape
 ```
 
 #### General Command
