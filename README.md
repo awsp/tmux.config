@@ -18,13 +18,15 @@ f       Find Window
 #### Pane Command
 Alt + A then ...
 ```
--       Horizontal Split
-_       Vertical Split
-x       Close Pane
-hjkl    Navigate to Pane (Up, Down, Left, Right)
-HJKL    Resize Pane (Up, Down, Left, Right)
-q       Show Pane number
-[	Up, Down key for navigation and scolling, ESC to escape
+-           Horizontal Split
+_           Vertical Split
+x           Close Pane
+hjkl        Navigate to Pane (Up, Down, Left, Right)
+HJKL        Resize Pane (Up, Down, Left, Right)
+q           Show Pane number
+[	        Up, Down key for navigation and scolling, ESC to escape
+Ctrl+Space  Start copying, alt/ctrl + w to copy
+]           Paste copied content
 ```
 
 #### General Command
